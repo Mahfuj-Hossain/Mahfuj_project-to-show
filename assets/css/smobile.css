@@ -1,6 +1,10 @@
 .header-style{
 height: calc(100vh - 60px);
 }
+.banner_gallery{
+    height: calc(100vh - 60px);
+}
+    
 nav ul li a {
     font-size: .78rem;
     padding: 0 .3rem;
